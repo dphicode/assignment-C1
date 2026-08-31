@@ -1,0 +1,16 @@
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH3\Ex 3-1 InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
