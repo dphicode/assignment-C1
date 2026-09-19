@@ -1,0 +1,16 @@
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.exe
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.deps.json
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.runtimeconfig.json
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.pdb
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.genruntimeconfig.cache
+C:\__SCHOOL\FALL 2026\CIST 2341\CH6\FutureValue\FutureValue\obj\Debug\net7.0-windows\ref\FutureValue.dll
